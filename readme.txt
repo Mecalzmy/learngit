@@ -5,4 +5,5 @@ GIt tracks changes.
 Greating a new branch is quick.
 Creating a new branch is quick and simple.
 Mecal is so cool.
+you need to be strong.
 
